@@ -1,0 +1,23 @@
+h2{text-align: center;}
+            h4{text-align: center;}
+            ul{
+                width: 600px;
+                height: 200px;
+                margin: auto;
+            }
+            li{
+                list-style: none;
+                float: left;
+                width: 200px;
+                height: 200px;
+            }
+          
+            
+            p{
+                text-align: center;
+    
+            }
+            
+            input{
+                color: #c4c0c0;
+            }
